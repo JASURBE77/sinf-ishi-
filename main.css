@@ -1,0 +1,165 @@
+body{
+    background-color:black;
+}
+.h11{
+  text-align: center;
+  color: blueviolet;
+}
+.ota{
+    width: 250px;
+    height: 50px;
+    margin-left: 630px;
+    border: 5px solid blueviolet;
+    border-radius: 20px;
+}
+.oq1{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.oq2{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-left: 40px;
+  margin-top: -35px;
+}
+.oq3{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-left: 75px;
+  margin-top: -35px;
+}
+.ota2{
+  width: 250px;
+  height: 50px;
+  margin-left: 630px;
+  border: 5px solid blueviolet;
+  border-radius: 20px;
+  margin-top:30px;
+}
+.oq4{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: 130px;
+}
+.oq5{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-left: 170px;
+  margin-top: -35px;
+}
+.oq6{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-left:  210px;
+  margin-top: -35px;
+}
+.ota3{
+  width: 250px;
+  height: 50px;
+  margin-left: 630px;
+  border: 5px solid blueviolet;
+  border-radius: 20px;
+  margin-top:30px;
+}
+.oq7{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-left: 130px;
+}
+.oq8{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-top: -35px;
+  margin-left: 170px;
+}
+.oq9{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-left: 85px;
+  margin-top: -35px;
+}
+.ota4{
+  width: 250px;
+  height: 50px;
+  margin-left: 630px;
+  border: 5px solid blueviolet;
+  border-radius: 20px;
+  margin-top:30px;
+}
+.oq10{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 10px; 
+}
+.oq11{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-top: -35px;
+  margin-left: 210px;
+}
+.oq12{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+  margin-top: -35px;
+  margin-left: 120px;
+}
+.ota5{
+  width: 250px;
+  height: 50px;
+  margin-left: 630px;
+  border: 5px solid blueviolet;
+  border-radius: 20px;
+  margin-top:30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.oq13{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+}
+
+.oq14{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+}
+.oq15{
+  background-color: white;
+  width: 30px;
+  height: 35px;
+  border-radius: 10px;
+}
